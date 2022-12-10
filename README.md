@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Evgene</a> 
+<h1 align="center">Привет, Я <a href="" target="_blank">Аржиловский</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Это мое резюмэ</h3>
 
-<!---
-iTEvgen/iTEvgen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
